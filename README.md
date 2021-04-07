@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##​# class​ ​Marouane:
-
-        ​def​ ​__init__​(​self​):
+### class Marouane:
+```python
+        def__init__(self):
 
                 ​self​.​work​ ​=​ ​​​"Software Engineer / Machine learning engineer"​
                 ​self​.​languages​ ​=​ ​['Python','javascript','C++']
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
         ​def​ ​sleep​(​self​):
 
                 ​raise​ ​NotImplementedError
+```
