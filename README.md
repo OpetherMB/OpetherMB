@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 class Marouane:
 
-        def__init__(self):
+        def __init__(self):
 
                 ​self​.​work​ ​=​ ​​​"Software Engineer / Machine learning engineer"​
                 ​self​.​languages​ ​=​ ​['Python','javascript','C++']
@@ -31,6 +31,5 @@ class Marouane:
                         ​await​ ​self​.​oss​.​update​(​inputs​)
                 
         ​def​ ​sleep​(​self​):
-
                 ​raise​ ​NotImplementedError
 ```
