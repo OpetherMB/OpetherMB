@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##​# class​ ​Marouane:
+
+        ​def​ ​__init__​(​self​):
+                ​self​.​work​ ​=​ ​​​"Software Engineer / Machine learning engineer"​
+                ​self​.​languages​ ​=​ ​['Python','javascript','C++']
+                
+
+        ​async​ ​def​ ​run​(​self​, ​inputs​: ​Union​[​Cookies, ​Coffee​]) ​->​ ​None​:
+                ​while​ ​True​:
+                        ​await​ ​self​.​work​.​do​(​inputs​)
+                        ​await​ ​self​.​oss​.​update​(​inputs​)
+                
+        ​def​ ​sleep​(​self​):
+                ​raise​ ​NotImplementedError
