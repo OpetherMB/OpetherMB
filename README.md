@@ -28,7 +28,7 @@ class Marouane:
 
                 ​while​ ​True​:
                         ​await​ ​self​.​work​.​do​(​inputs​)
-                        ​await​ ​self​.​oss​.​update​(​inputs​)
+                        ​await​ ​self​.​languages​.​update​(​inputs​)
                 
         ​def​ ​sleep​(​self​):
                 ​raise​ ​NotImplementedError
