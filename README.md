@@ -20,7 +20,7 @@ class Marouane:
 
         def __init__(self):
 
-                ​self​.​work​ ​=​ ​​​"Software Engineer / Machine learning engineer"​
+                ​self​.​work​ ​=​ ​​​"Software Engineer / Data Engineer"​
                 ​self​.​languages​ ​=​ ​['Python','javascript','C++']
                 
 
