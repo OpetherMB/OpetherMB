@@ -20,12 +20,11 @@ class Marouane:
 
         def __init__(self):
 
-                ​self​.​work​ ​=​ ​​​"Software Engineer / Data Engineer"​
-                ​self​.​languages​ ​=​ ​['Python','javascript','C++']
+                ​self​.​work​ ​=​ ​​​"Software Engineer / IA Researcher & Publisher / Data Engineer"​
+                ​self​.​languages​ ​=​ ​['Python','GO', 'javascript']
                 
 
-        ​async​ ​def​ ​run​(​self​, ​inputs​: ​Union​[​Cookies, ​Coffee​]) ​->​ ​None​:
-
+        ​async​ ​def​ ​run​(​self​, ​inputs​: ​Cookies | ​Coffee​ ) ​->​ ​None​:
                 ​while​ ​True​:
                         ​await​ ​self​.​work​.​do​(​inputs​)
 
