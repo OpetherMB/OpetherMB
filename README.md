@@ -21,7 +21,7 @@ class Marouane:
         def __init__(self):
 
                 ​self​.​work​ ​=​ ​​​"Software Engineer / IA Researcher & Publisher / Data Engineer"​
-                ​self​.​languages​ ​=​ ​['Python','GO', 'javascript']
+                ​self​.​languages​ ​=​ ​['Python','GO']
                 
 
         ​async​ ​def​ ​run​(​self​, ​inputs​: ​Cookies | ​Coffee​ ) ​->​ ​None​:
